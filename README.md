@@ -31,7 +31,7 @@ You shall see the following screen:
 You could adjust all the parameters displayed.  
 
 ## Special
-If you'd like to try a self-adjusted YOLO model, you shall prepare a peronalized yaml.  
+If you'd like to try a self-adjusted YOLO model, you shall prepare a personalized yaml.  
 For example, you'd like to insert a CBAM module in.  
 
 ## Remarks
@@ -39,8 +39,9 @@ I've only tested on Apple Mac Mini M4 with anaconda environment and all default 
 Wish this tool would help you.  
 I would try to update the tool and make it more functional.  
 If there's issue, please try to modify the source code.  
-You could submit a issue, but slow response would be exspected since I would spend no more than 2 hours on this. Thank you for your understanding.  
+You could submit an issue, but slow response would be expected since I would spend no more than 2 hours on this.   
+Thank you for your understanding.  
 
 ## About Me
-If you are intrested, you could find my [Blog Here](https://kevinblog.zone.id "Kevin's Blog")  
+If you are interested, you could find my [Blog Here](https://kevinblog.zone.id "Kevin's Blog")
 Thank you.  
