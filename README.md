@@ -27,7 +27,7 @@ test: ../test/images
 ## How to Use
 In the environment you've got YOLO and pyqt6 ready, run the YOLO_Train_GUI.py.
 You shall see the following screen:
-![ScreenShot]/img/screen_shot.png
+![ScreenShot](/img/screen_shot.png)
 You could adjust all the parameters displayed.
 
 ## Special
