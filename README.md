@@ -39,7 +39,7 @@ I've only tested on Apple Mac Mini M4 with anaconda environment and all default 
 Wish this tool would help you.  
 I would try to update the tool and make it more functional.  
 If there's issue, please try to modify the source code.  
-You could submit an issue, but slow response would be expected since I would spend no more than 2 hours on this.   
+You could submit an issue, but slow response would be expected since I would spend no more than 2 hours on this per day.   
 Thank you for your understanding.  
 
 ## About Me
